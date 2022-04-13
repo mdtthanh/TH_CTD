@@ -6,7 +6,7 @@
 
 #ifndef __CHARCODE_H__
 #define __CHARCODE_H__
-
+                          
 typedef enum {
   CHAR_SPACE,
   CHAR_LETTER,
