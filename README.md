@@ -1,4 +1,6 @@
 # TH_CTD
 Week1: Khởi động
+<br>
 Week2: Phân tích từ vựng - scanner
-Week3: Phân t
+<br>
+Week3: Phân tích cú pháp - pars
